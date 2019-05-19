@@ -54,3 +54,9 @@ https://aws.amazon.com/jp/lake-formation/
 ![data-lake-vs-data-warehouse](https://i.imgur.com/AcMgqdc.png)
 
 https://aws.amazon.com/jp/big-data/datalakes-and-analytics/what-is-a-data-lake/
+
+## Data lineage (データ系統)
+
+> Data lineage includes the data's origins, what happens to it and where it moves over time. Data lineage gives visibility while greatly simplifying the ability to trace errors back to the root cause in a data analytics process.
+
+https://en.wikipedia.org/wiki/Data_lineage
